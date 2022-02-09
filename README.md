@@ -1,1 +1,1 @@
-# HandwritngRecognition-and-SpeechConversion
+# HandwritingRecognition-and-SpeechConversion
